@@ -4,6 +4,8 @@ The report,the codeand other files are included in the fiels.
 
 [The competition website](https://www.datasciencecapstone.org/) 
 
+The Programming language used was python and latex was used for the documentation.
+
 # Introduction
 The core business of almost every financial institution is the distribution of loans. This means
 a significant portion of the profits that flow into these organizations come from interests that
@@ -26,8 +28,10 @@ Approval (these factors are the dependent variables for this loan prediction pro
 
 1.Applicant Income: Applicants with high income have more chances of loan approval than
 those with low income.
+
 2. Loan amount: Loan approval should also depend on the loan amount. If the loan amount
 is less, chances of loan approval should be high.
+
 3. State code: The location of the applicant could affect the approval of loan. Applicants
 living in states with high average incomes have higher chances of loan approval compared
 to those living in states with low average incomes.
