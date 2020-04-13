@@ -22,7 +22,8 @@ Hypothesis is a very important stage in any machine learning/data science pipeli
 understanding the problem statement in detail by brainstorming as many factors as possible
 which can impact the outcome. It is always done by understanding the problem statement
 thoroughly before looking at the data. Below are some of the factors likely to affect the Loan
-Approval (these factors are the dependent variables for this loan prediction problem.)
+Approval (these factors are the dependent variables for this loan prediction problem).
+
 1.Applicant Income: Applicants with high income have more chances of loan approval than
 those with low income.
 2. Loan amount: Loan approval should also depend on the loan amount. If the loan amount
@@ -47,7 +48,7 @@ lender
 * state code
 * Applicant Income
 * Msa_md
-
+etc.....
 
 
 
