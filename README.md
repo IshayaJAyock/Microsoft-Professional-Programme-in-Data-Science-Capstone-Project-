@@ -23,11 +23,11 @@ understanding the problem statement in detail by brainstorming as many factors a
 which can impact the outcome. It is always done by understanding the problem statement
 thoroughly before looking at the data. Below are some of the factors likely to affect the Loan
 Approval (these factors are the dependent variables for this loan prediction problem.)
--- 1.Applicant Income: Applicants with high income have more chances of loan approval than
+1.Applicant Income: Applicants with high income have more chances of loan approval than
 those with low income.
--- 2. Loan amount: Loan approval should also depend on the loan amount. If the loan amount
+2. Loan amount: Loan approval should also depend on the loan amount. If the loan amount
 is less, chances of loan approval should be high.
--- 3. State code: The location of the applicant could affect the approval of loan. Applicants
+3. State code: The location of the applicant could affect the approval of loan. Applicants
 living in states with high average incomes have higher chances of loan approval compared
 to those living in states with low average incomes.
 
