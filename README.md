@@ -1,6 +1,7 @@
-#This is a repository is for Microsoft  Professional program in Data Science 2019.
+# This is a repository is for Microsoft  Professional program in Data Science 2019.
 
 [The competition website](https://www.datasciencecapstone.org/)
+
 The languages used are Python and latex
 
 # Introduction
